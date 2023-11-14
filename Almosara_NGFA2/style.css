@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: rgb(139, 98, 123);
+    height: 15vh;
+}
+nav a{
+    text: 300%;
+    right: 50%;
+}
+.icon{
+    background: url(/img/sprite3.png) no-repeat;
+    width: 66px;
+    height: 66px;
+}
+#soundcloud{
+    background-position: -587px -72px;
+}
+#ig{
+    background-position: -290px -221px;
+}
+#vine{
+    background-position: -513px -72px;
+}
+#wifi{
+    background-position: -141px -72px;
+}
